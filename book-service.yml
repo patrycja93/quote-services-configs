@@ -7,4 +7,7 @@ eureka:
       defaultZone: http://localhost:8761/eureka
 
 quote:
-  books: Harry Potter, Wiedźmin, Czarownica
+  books: 
+    - Harry Potter
+    - Wiedźmin
+    - Czarownica
