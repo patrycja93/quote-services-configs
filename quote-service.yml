@@ -5,3 +5,6 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://10.30.0.214:8761/eureka/
+    instance:
+     preferIpAddress: true
+      
