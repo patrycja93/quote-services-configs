@@ -1,7 +1,2 @@
 server:
   port: 8080
-
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://10.30.0.214:8761/eureka/
